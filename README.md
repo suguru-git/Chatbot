@@ -22,9 +22,7 @@ conversation_history.pkl   conversation history
 
 ## 🔧 Quick Start
 
-### 📥 Download the Project  
-[Click here to download from Google Drive](https://drive.google.com/drive/folders/1EV9jg-Pjie61fHtzSap_8g3esJWBZZ4V?usp=sharing)
-
+### 📥 Download the Project  Folder
 ### 🛠 Requirements  
 - Python 3.8+  
 - [Ollama](https://ollama.ai) (used for AI responses)
