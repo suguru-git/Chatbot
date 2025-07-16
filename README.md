@@ -4,11 +4,11 @@ A Python chatbot that can answer questions from **PDF documents** and **YouTube 
 
 ---
 📁 Files
-File Name  	Description
-mybot.py  	ollama mistral version
-newbot.py	  ollama  phi version
-Knowledge_base.pkl   chunks+embeddings
-conversation_history.pkl   conversation history
+- File Name  	Description
+- mybot.py  	ollama mistral version
+- newbot.py	  ollama  phi version
+- Knowledge_base.pkl   chunks+embeddings
+- conversation_history.pkl   conversation history
 
 
 ## 🚀 What It Does
